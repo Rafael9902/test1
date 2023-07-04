@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Album 1",
+        "description": "Soy el album 1",
+        "state": "complete",
+        "color": "green"
+    },
+    {
+        "id": "2",
+        "name": "Album 2",
+        "description": "Soy el album 2",
+        "state": "pending",
+        "color": "green"
+    },
+    {
+        "id": "3",
+        "name": "Album 3",
+        "description": "Soy el album 3",
+        "state": "complete",
+        "color": "blue"
+    },
+    {
+        "id": "4",
+        "name": "Album 4",
+        "description": "Soy el album 4",
+        "state": "pending",
+        "color": "yellow"
+    },
+    {
+        "id": "5",
+        "name": "Album 5",
+        "description": "Soy el album 5",
+        "state": "incomplete",
+        "color": "yellow"
+    },
+    {
+        "id": "6",
+        "name": "Album 6",
+        "description": "Soy el album 6",
+        "state": "pending",
+        "color": "green"
+    }
+]

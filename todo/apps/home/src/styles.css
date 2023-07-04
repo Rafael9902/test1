@@ -1,0 +1,16 @@
+/* You can add global styles to this file, and also import other style files */
+.albums {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 10%;
+}
+.album {
+    box-shadow: 0 0 10px #bfbfbf;
+    padding: 20px;
+    border-radius: 5px;
+}
+span {
+    display: block;
+}

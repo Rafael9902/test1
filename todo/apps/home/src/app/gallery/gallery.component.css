@@ -1,0 +1,8 @@
+img {
+    border-radius: 50%;
+    height: 90px;
+    margin: 10px auto;
+    display: block;
+    margin-top: -70px;
+    box-shadow: 0 0 10px #6b6b6b;
+}

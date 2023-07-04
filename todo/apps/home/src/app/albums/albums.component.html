@@ -1,0 +1,8 @@
+<div class="albums" *ngIf="albums">
+    <div class="album" *ngFor="let item of albums">
+        <span>Name: {{item.name}}</span>
+        <span>Description: {{item.name}}</span>
+        <span>Items: {{item.count}}</span>
+        <button (click)="show(item)">View Album</button>
+    </div>
+</div>

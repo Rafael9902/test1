@@ -1,0 +1,14 @@
+.albums {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    gap: 10px;
+}
+.album {
+    box-shadow: 0 0 10px #bfbfbf;
+    padding: 20px;
+    border-radius: 5px;
+}
+span {
+    display: block;
+}

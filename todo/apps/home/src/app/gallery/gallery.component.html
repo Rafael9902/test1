@@ -1,0 +1,7 @@
+<div class="albums" *ngIf="gallery">
+    <div class="album" *ngFor="let item of gallery">
+        <img width="90px" src="{{item.url}}">
+        <span>Name: {{item.name}}</span>
+        <span>Description: {{item.description}}</span>
+    </div>
+</div>
