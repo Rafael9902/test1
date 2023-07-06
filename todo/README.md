@@ -33,7 +33,7 @@ You have a total of two hours to develop the exam from the moment you are author
 # Items to evaluate
 
 
-+ Microfrontend [ ]
+## Microfrontend [ ]
 
 The application is built using **Microfrontend** with the nx library and has the following structure:
 
